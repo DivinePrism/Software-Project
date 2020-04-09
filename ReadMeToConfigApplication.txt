@@ -1,4 +1,4 @@
-**To get CSV writing to work, some file paths need to be configed***
+**In order for the CSV writing to work properly, some file paths must be configured***
 
 To import the file into eclipse first create a new project:
 File>>new>>JavaProject
