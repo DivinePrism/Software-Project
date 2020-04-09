@@ -1,0 +1,6 @@
+The purpose of this project is to create software to help the ECM team handle builds and complete repetitive tasks.
+The current state of the ECM work consists of creating and filling out blank spreadsheet and emails, every time there is a new build or update. 
+The software would be able to generate or update build configurations.Save them into a database and load them into an email to send the ECM. 
+The ECM would then be able to add builds and under them sub builds to generate a change log to determine what needs to be completed.  
+The intention to use a database is for the functionally to keep track of all builds. 
+To bridge the communication between the database and the user, a GUI will be implemented to layout all functionally in a user friendly fashion.
